@@ -1,0 +1,21 @@
+# Android build artifacts
+**/build/
+.gradle/
+local.properties
+*.apk
+*.aar
+
+# System & IDE
+.idea/
+*.iml
+.DS_Store
+
+# Termux/CLI leftovers (The stuff that caused the error)
+.bun/
+.cache/
+.config/
+.local/
+.npm/
+.bashrc
+.profile
+.gitconfig

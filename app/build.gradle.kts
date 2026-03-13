@@ -49,7 +49,7 @@ android {
     }
 
     composeOptions {
-        [span_14](start_span)kotlinCompilerExtensionVersion = "1.5.4"[span_14](end_span)
+        [span_14](start_span)kotlinCompilerExtensionVersion = "1.5.11"[span_14](end_span)
     }
 
     packaging {
